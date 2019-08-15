@@ -49,7 +49,7 @@ Checks and monitor Controllers at different levels.
 ### Security
 Is by default disconected. In order to connect go to SpringSecurityConfig class and UNCOMMENT code.
 
-Then user and roles are already define. Sameway with HTTP Authentication.
+Then user and roles are already defined and sameway with HTTP Authentication.
 
- - user password
- - admin password
+ - user / password
+ - admin / password
