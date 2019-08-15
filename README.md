@@ -45,3 +45,11 @@ The main benefit of this library is that we can get production grade tools witho
 Checks and monitor Controllers at different levels.
 
     http://localhost:8080/actuator
+
+### Security
+Is by default disconected. In order to connect go to SpringSecurityConfig class and UNCOMMENT code.
+
+Then user and roles are already define. Sameway with HTTP Authentication.
+
+ - user password
+ - admin password
