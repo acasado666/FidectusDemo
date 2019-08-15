@@ -25,7 +25,7 @@ Clone project locally and run maven project.
 ### Running the project
 Once the project is started we should go to Swagger home page from which we can do all REST operations.
 
-    http://localhost:8080/casado/swagger-ui.html
+    http://localhost:8080/swagger-ui.html
     
 ### HAL Browser
 HAL, is a simple format that gives a consistent and easy way to hyperlink between resources in our API. 
